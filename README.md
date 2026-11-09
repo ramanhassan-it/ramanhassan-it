@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
-<h3 align="left">Connect with me:</h3>
 
 <img width="3042" height="1444" alt="KOREN_logo" src="https://github.com/user-attachments/assets/c133e215-bd4e-419b-bbc1-a18aba1bf446" />
 
@@ -14,7 +13,4 @@
   <img src="https://img.shields.io/badge/Flame-EE4C2C?style=for-the-badge&logo=flame&logoColor=white" alt="Flame" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-</p>
+  <img
