@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raman</h1>
-
-<p align="center">
+<div align="center">
+  <h2>Hi 👋, I'm Raman</h2>
   <img width="700" alt="KOREN_logo" src="https://github.com/user-attachments/assets/c133e215-bd4e-419b-bbc1-a18aba1bf446" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
