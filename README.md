@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi 👋, I'm Raman</h2>
+  <h2>Salut 👋, je suis Raman</h2>
   <img width="700" alt="KOREN_logo" src="https://github.com/user-attachments/assets/c133e215-bd4e-419b-bbc1-a18aba1bf446" />
 </div>
 
