@@ -3,6 +3,7 @@
   <img width="700" alt="KOREN_logo" src="https://github.com/user-attachments/assets/c133e215-bd4e-419b-bbc1-a18aba1bf446" />
 </div>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
